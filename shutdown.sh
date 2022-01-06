@@ -1,0 +1,2 @@
+vagrant halt
+shutdown now

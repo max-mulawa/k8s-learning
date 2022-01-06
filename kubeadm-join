@@ -1,0 +1,11 @@
+
+kubeadm init --apiserver-advertise-address=192.168.56.7
+cp /vagrant/LFD259/SOLUTIONS/s_02/k8scp.sh .
+cp /vagrant/LFD259/SOLUTIONS/s_02/k8sSecond.sh .
+
+
+kubeadm join 192.168.56.7:6443 --token abcdef.0123456789abcdef --discovery-token-ca-cert-hash xxx
+
+kubeadm join .. --v=2
+
+
