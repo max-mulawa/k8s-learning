@@ -67,7 +67,7 @@ What to cover (in order)
   - Channels and go routines continued
   - Select concurrency structure
   - 26 min [Google I/O 2012 - Go Concurrency Patterns]
-  
+
 ### 2021-10-18 Day 10
 
   - Watched community meetup for Linkerd - [Linkerd Community Meeting 8-26-21](https://www.youtube.com/watch?v=vujvDltxmhg&amp;t=2053s&amp;ab_channel=Buoyant)
@@ -418,4 +418,4 @@ Reprovision
 
   - Setup github cli 
   - regex play `\[http[s]?:\/\/[\w.\/\-_#\?=\\]{1,}\]`
-  - 
+  - K8s pods security configuration - https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
