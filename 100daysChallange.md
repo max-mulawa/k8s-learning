@@ -419,3 +419,6 @@ Reprovision
   - Setup github cli 
   - regex play `\[http[s]?:\/\/[\w.\/\-_#\?=\\]{1,}\]`
   - K8s pods security configuration - https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
+  - Logs / probes / events - https://github.com/dgkanatsios/CKAD-exercises/blob/master/e.observability.md
+    - Metrics server - https://github.com/kubernetes-sigs/metrics-server
+      - cannot validate certificate https://github.com/kubernetes-sigs/metrics-server/issues/196  
