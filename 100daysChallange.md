@@ -414,7 +414,7 @@ Reprovision
   - Configure Kind cluster on CeontOS 8
   - Production Kubernetes book reading and analysis - https://tanzu.vmware.com/content/ebooks/production-kubernetes 
 
-### 2020-01-03 Day 56 
+### 2020-01-06 Day 57
 
   - Setup github cli 
   - regex play `\[http[s]?:\/\/[\w.\/\-_#\?=\\]{1,}\]`
@@ -422,3 +422,9 @@ Reprovision
   - Logs / probes / events - https://github.com/dgkanatsios/CKAD-exercises/blob/master/e.observability.md
     - Metrics server - https://github.com/kubernetes-sigs/metrics-server
       - cannot validate certificate https://github.com/kubernetes-sigs/metrics-server/issues/196  
+
+### 2020-01-07 Day 58
+
+ - Services, nodeport, network polcies - https://github.com/dgkanatsios/CKAD-exercises/blob/master/f.services.md 
+ - Vim find/replace https://linuxize.com/post/vim-find-replace/
+ - PVC/PV https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md
