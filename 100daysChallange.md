@@ -5,7 +5,15 @@ What to cover (in order)
 - [x] https://learn.hashicorp.com/vagrant  
 - [x] Linkerd course on edx https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS143x+3T2020/home  
 - [x] Exam KCAD – already purchased 
-  - [~] https://github.com/dgkanatsios/CKAD-exercises  
+  - [x] https://github.com/dgkanatsios/CKAD-exercises  
+  - [ ] https://killer.sh/dashboard
+     - [ ] session - take 1
+     - [ ] https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+     - [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
+     - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
+     - [ ] https://killer.sh/attendee/385f7b39-58e8-4e2e-bfe6-444031b49bf0/tips
+     - [ ]session - tak 2
+  - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
   - [ ] https://kubernetes.courselabs.co/  
   - [x] Bookmarks - https://github.com/reetasingh/CKAD-Bookmarks  
 
@@ -428,3 +436,4 @@ Reprovision
  - Services, nodeport, network polcies - https://github.com/dgkanatsios/CKAD-exercises/blob/master/f.services.md 
  - Vim find/replace https://linuxize.com/post/vim-find-replace/
  - PVC/PV https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md
+ - trial exam on killer.sh
