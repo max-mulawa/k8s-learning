@@ -437,3 +437,7 @@ Reprovision
  - Vim find/replace https://linuxize.com/post/vim-find-replace/
  - PVC/PV https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md
  - trial exam on killer.sh
+
+ ### 2020-01-07 Day 59
+
+ - Continue with trial exam on killer.sh (deployment, network policies, podman, docker and helm relearning)
