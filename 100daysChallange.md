@@ -26,7 +26,8 @@ What to cover (in order)
          - [ ] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=03  
      - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
      - [ ] Recap Helm client commands  
-         - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/  
+         - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
+         - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands          
      - [ ] Recap Network policies - https://github.com/ahmetb/kubernetes-network-policy-recipes
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
      - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
@@ -456,6 +457,11 @@ Reprovision
  - PVC/PV https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md
  - trial exam on killer.sh
 
- ### 2020-01-07 Day 59
+ ### 2020-01-08 Day 59
 
  - Continue with trial exam on killer.sh (deployment, network policies, podman, docker and helm relearning)
+
+  ### 2020-01-10 Day 60
+
+ - Review killer.sh answers/commends 
+ - Play with some vim commands - https://www.computerhope.com/unix/vim.htm
