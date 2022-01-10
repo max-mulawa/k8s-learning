@@ -7,12 +7,20 @@ What to cover (in order)
 - [x] Exam KCAD – already purchased 
   - [x] https://github.com/dgkanatsios/CKAD-exercises  
   - [ ] https://killer.sh/dashboard
-     - [ ] session - take 1
+     - [x] session - take 1
      - [ ] https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-     - [ ] https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
-     - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
-     - [ ] https://killer.sh/attendee/385f7b39-58e8-4e2e-bfe6-444031b49bf0/tips
-     - [ ]session - tak 2
+     - [ ] session - take 2
+  - [ ] Fixing slack After killer.sh  
+     - [ ] Productivity (aliases, Vim,  etc https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
+         - [ ] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
+         - [ ] Check curl and wget
+         - [ ] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
+     - [ ] Commad line execution
+         - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
+     - [ ] Docker client commands
+     - [ ] Podman client commands
+     - [ ] Helm client commands  
+     - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
   - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
   - [ ] https://kubernetes.courselabs.co/  
   - [x] Bookmarks - https://github.com/reetasingh/CKAD-Bookmarks  
