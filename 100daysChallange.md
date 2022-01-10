@@ -8,10 +8,10 @@ What to cover (in order)
   - [x] https://github.com/dgkanatsios/CKAD-exercises  
   - [ ] https://killer.sh/dashboard
      - [x] session - take 1
-     - [ ] https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
      - [ ] session - take 2
   - [ ] Fixing slack After killer.sh  
      - [ ] Productivity (aliases, Vim,  etc )
+         - [ ] Review killer.sh answers dump
          - [ ] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
          - [ ] How to indent text with Vim https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi/235841 
          - [ ] Check curl and wget
@@ -31,8 +31,8 @@ What to cover (in order)
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
      - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
      - [ ] Review pod securityContext
+     - [ ] https://kubernetes.courselabs.co/  
   - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
-  - [ ] https://kubernetes.courselabs.co/  
   - [x] Bookmarks - https://github.com/reetasingh/CKAD-Bookmarks  
 
 ### 2021-10-09 Day 1
