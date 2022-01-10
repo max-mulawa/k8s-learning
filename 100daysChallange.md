@@ -11,7 +11,8 @@ What to cover (in order)
      - [ ] session - take 2
   - [ ] Fixing slack After killer.sh  
      - [ ] Productivity (aliases, Vim,  etc )
-         - [ ] Review killer.sh answers dump
+         - [x] Review killer.sh answers dump
+         - [ ] Read https://github.com/cncf/curriculum
          - [ ] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
          - [ ] How to indent text with Vim https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi/235841 
          - [ ] Check curl and wget
@@ -22,16 +23,20 @@ What to cover (in order)
          - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
          - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
          - [ ] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
+         - [ ] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
      - [ ] Recap Docker client commands Push, Build , Tag, Image, run , run in background https://docs.docker.com/engine/reference/commandline/push/   
          - [ ] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=03  
      - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
      - [ ] Recap Helm client commands  
          - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
          - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands          
-     - [ ] Recap Network policies - https://github.com/ahmetb/kubernetes-network-policy-recipes
+     - [ ] Recap Network policies
+         - [ ] https://github.com/ahmetb/kubernetes-network-policy-recipes
+         - [ ] https://editor.cilium.io.
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
      - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
      - [ ] Review pod securityContext
+     - [ ] Review storageClass, PV (hostPath), PVC 
      - [ ] https://kubernetes.courselabs.co/  
   - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
   - [x] Bookmarks - https://github.com/reetasingh/CKAD-Bookmarks  
