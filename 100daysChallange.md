@@ -19,6 +19,8 @@ What to cover (in order)
          - [ ] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
          - [ ] Read and practice https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
          - [ ] Check fg command 
+         - [ ] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
+         - [ ] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
      - [ ] Commad line execution
          - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
          - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
