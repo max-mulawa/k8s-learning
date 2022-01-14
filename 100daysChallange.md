@@ -40,6 +40,7 @@ What to cover (in order)
      - [ ] Review pod securityContext
      - [ ] Review storageClass, PV (hostPath), PVC 
      - [ ] https://kubernetes.courselabs.co/  
+     - [ ] CKAD Guide (PDF in mydrive)
   - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
   - [x] Bookmarks - https://github.com/reetasingh/CKAD-Bookmarks  
 
