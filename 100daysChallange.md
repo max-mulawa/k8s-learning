@@ -465,3 +465,17 @@ Reprovision
 
  - Review killer.sh answers/commends 
  - Play with some vim commands - https://www.computerhope.com/unix/vim.htm
+
+  ### 2020-01-15 Day 61
+
+  - getting to know grep / vim / sed tools
+
+  ### 2020-01-18 Day 62
+
+  - processes in Linux (htop)
+
+  ### 2020-01-18 Day 63
+
+- processes in Linux (kill/killall)
+- screen
+- bootloader (grub)
