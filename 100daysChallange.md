@@ -12,8 +12,8 @@ What to cover (in order)
   - [ ] Fixing slack After killer.sh  
      - [ ] Productivity (aliases, Vim,  etc )
          - [x] Review killer.sh answers dump
-         - [ ] Read https://github.com/cncf/curriculum
-         - [ ] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
+         - [x] Read https://github.com/cncf/curriculum
+         - [x] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
          - [ ] How to indent text with Vim https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi/235841 
          - [ ] Check curl and wget
          - [ ] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
@@ -31,10 +31,14 @@ What to cover (in order)
      - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
      - [ ] Recap Helm client commands  
          - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
-         - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands          
+         - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands
+         - [ ] Blue/Green deployments - https://kubernetes.io/blog/2018/04/30/zero-downtime-deployment-kubernetes-jenkins/
+         - [ ] Canary deployment - https://kubernetes.io/blog/2020/04/two-phased-canary-rollout-with-gloo/ 
+         - [ ] Rolling update - https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
      - [ ] Recap Network policies
          - [ ] https://github.com/ahmetb/kubernetes-network-policy-recipes
-         - [ ] https://editor.cilium.io.
+         - [ ] https://editor.cilium.io
+         - [ ] Ingress controller - https://kubernetes.io/docs/concepts/services-networking/ingress/ 
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
      - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
      - [ ] Review pod securityContext
@@ -487,3 +491,30 @@ Reprovision
 - processes in Linux (kill/killall)
 - screen
 - bootloader (grub)
+
+  ### 2020-01-22 Day 64
+
+- bootloader (grub) cdn
+- file systems and linux partitions
+- systemd
+
+  ### 2020-01-23 Day 65
+
+- package managers
+- mount/unmout /etc/fstab
+- strace 
+
+### 2020-01-29 Day 66
+
+- Kernel modules
+- file descriptors / block & character devices
+- /proc folder
+
+
+### 2020-01-30 Day 67
+
+- Bash shell scripting
+
+### 2020-01-31 Day 68
+
+- Tmux tutorial / tmuxinator project
