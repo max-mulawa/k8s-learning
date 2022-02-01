@@ -14,9 +14,13 @@ What to cover (in order)
          - [x] Review killer.sh answers dump
          - [x] Read https://github.com/cncf/curriculum
          - [x] Check tmux https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
-         - [ ] How to indent text with Vim https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi/235841 
-         - [ ] Check curl and wget
-         - [ ] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
+         - [x] How to indent text with Vim https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi/235841 
+         - [x] Check curl and wget
+           - [x] curl (https://curl.se/docs/httpscripting.html)
+           - [x] wget/curl comparison by curl developer https://daniel.haxx.se/docs/curl-vs-wget.html 
+           - [x] wget https://opensource.com/article/21/10/linux-wget-command
+           - [x] https://linuxize.com/post/wget-command-examples/
+         - [x] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
          - [ ] Read and practice https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
          - [ ] Check fg command 
          - [ ] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
@@ -507,9 +511,9 @@ Reprovision
 ### 2020-01-29 Day 66
 
 - Kernel modules
+- Kernel variables
 - file descriptors / block & character devices
 - /proc folder
-
 
 ### 2020-01-30 Day 67
 
@@ -518,3 +522,7 @@ Reprovision
 ### 2020-01-31 Day 68
 
 - Tmux tutorial / tmuxinator project
+
+### 2020-02-01 Day 69
+
+- getting to know curl and wget
