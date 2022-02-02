@@ -20,9 +20,11 @@ What to cover (in order)
            - [x] wget/curl comparison by curl developer https://daniel.haxx.se/docs/curl-vs-wget.html 
            - [x] wget https://opensource.com/article/21/10/linux-wget-command
            - [x] https://linuxize.com/post/wget-command-examples/
-         - [x] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad 
-         - [ ] Read and practice https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-         - [ ] Check fg command 
+         - [x] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
+         - [x] Try mizu https://getmizu.io/docs/ 
+         - [x] Read and practice https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+         - [ ] https://medium.com/@ihernandezjr/the-ckad-exam-question-you-havent-seen-b434ba160093
+         - [x] Check fg command - https://www.youtube.com/watch?v=TJzltwv7jJs&ab_channel=EngineerMan (video tutorial)
          - [ ] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
          - [ ] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
      - [ ] Commad line execution
@@ -526,3 +528,11 @@ Reprovision
 ### 2020-02-01 Day 69
 
 - getting to know curl and wget
+
+
+### 2020-02-02 Day 79
+
+- fg / bg / kill tools
+- kubectl recap 
+- vim configuration
+- mizu tool testing
