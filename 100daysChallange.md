@@ -536,3 +536,15 @@ Reprovision
 - kubectl recap 
 - vim configuration
 - mizu tool testing
+
+### 2020-02-09 Day 80
+
+- sed/grep tools
+
+### 2020-02-10 Day 81
+
+- Arch linux installation (grub/fdisk/pacman)
+
+### 2020-02-11 Day 82
+
+- Arch linux installation (networking configuration/xserver/gnome)
