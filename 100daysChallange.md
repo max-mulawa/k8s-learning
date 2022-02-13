@@ -23,12 +23,12 @@ What to cover (in order)
          - [x] Read https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
          - [x] Try mizu https://getmizu.io/docs/ 
          - [x] Read and practice https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-         - [ ] https://medium.com/@ihernandezjr/the-ckad-exam-question-you-havent-seen-b434ba160093
+         - [x] https://medium.com/@ihernandezjr/the-ckad-exam-question-you-havent-seen-b434ba160093
          - [x] Check fg command - https://www.youtube.com/watch?v=TJzltwv7jJs&ab_channel=EngineerMan (video tutorial)
-         - [ ] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
-         - [ ] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
+         - [x] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
+         - [x] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
      - [ ] Commad line execution
-         - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
+         - [x] https://kubernetes.io/docs/concepts/cluster-administration/logging/
          - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
          - [ ] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
          - [ ] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
@@ -48,7 +48,8 @@ What to cover (in order)
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
      - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
      - [ ] Review pod securityContext
-     - [ ] Review storageClass, PV (hostPath), PVC 
+     - [ ] Review storageClass, PV (hostPath), PVC
+     - [ ] RBAC https://kubernetes.io/docs/reference/access-authn-authz/rbac/ 
      - [ ] https://kubernetes.courselabs.co/  
      - [ ] CKAD Guide (PDF in mydrive)
   - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
@@ -548,3 +549,10 @@ Reprovision
 ### 2020-02-11 Day 82
 
 - Arch linux installation (networking configuration/xserver/gnome)
+- systemd (https://www.linuxjournal.com/content/systemd-service-strengthening)
+- kubectl (https://www.atomiccommits.io/everything-useful-i-know-about-kubectl)
+
+### 2020-02-13 Day 83
+
+- k8s logging (https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+- k8s jobs / cri-o images (https://computingforgeeks.com/install-cri-o-container-runtime-on-debian-linux/)
