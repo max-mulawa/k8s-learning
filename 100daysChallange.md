@@ -29,9 +29,9 @@ What to cover (in order)
          - [x] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
      - [ ] Commad line execution
          - [x] https://kubernetes.io/docs/concepts/cluster-administration/logging/
-         - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
-         - [ ] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
-         - [ ] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
+         - [x] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
+         - [x] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
+         - [x] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
      - [ ] Recap Docker client commands Push, Build , Tag, Image, run , run in background https://docs.docker.com/engine/reference/commandline/push/   
          - [ ] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=03  
      - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
@@ -556,3 +556,9 @@ Reprovision
 
 - k8s logging (https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 - k8s jobs / cri-o images (https://computingforgeeks.com/install-cri-o-container-runtime-on-debian-linux/)
+
+### 2020-02-14 Day 84
+
+- jobs parallel / indexed  (https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- commands / args / shells https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
+- restartPolicy
