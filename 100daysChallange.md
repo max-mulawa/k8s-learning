@@ -32,9 +32,22 @@ What to cover (in order)
          - [x] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
          - [x] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
          - [x] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
-     - [ ] Recap Docker client commands Push, Build , Tag, Image, run , run in background https://docs.docker.com/engine/reference/commandline/push/   
-         - [ ] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=03  
+     - [ ] Recap Docker client commands Push, Build , Tag, Image, run , run in background
+        - Docker installation
+           - [ ] https://docs.docker.com/engine/install/ubuntu/
+           - [ ] https://docs.docker.com/engine/install/linux-postinstall/
+         - Build images
+           - [ ] https://www.freecodecamp.org/news/the-docker-handbook/
+           - [ ] https://docs.docker.com/language/golang/build-images/ 
+           - [ ] https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+           - [ ] https://docs.docker.com/engine/reference/commandline/push/ 
+           - [ ] https://docs.docker.com/buildx/working-with-buildx/
+           - [ ] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=0
+           - [ ] http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
+           - [ ] https://iximiuz.com/en/posts/you-need-containers-to-build-an-image/
+           - [ ] https://medium.com/@olivier.gaumond/why-am-i-able-to-bind-a-privileged-port-in-my-container-without-the-net-bind-service-capability-60972a4d5496
      - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
+       - [ ] https://github.com/containers/buildah/tree/main/docs/tutorials
      - [ ] Recap Helm client commands  
          - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
          - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands
@@ -46,7 +59,7 @@ What to cover (in order)
          - [ ] https://editor.cilium.io
          - [ ] Ingress controller - https://kubernetes.io/docs/concepts/services-networking/ingress/ 
      - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
-     - [ ] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
+     - [x] Understand Rolling Update Deployment including maxSurge and maxUnavailable 
      - [ ] Review pod securityContext
      - [ ] Review storageClass, PV (hostPath), PVC
      - [ ] RBAC https://kubernetes.io/docs/reference/access-authn-authz/rbac/ 
@@ -562,3 +575,12 @@ Reprovision
 - jobs parallel / indexed  (https://kubernetes.io/docs/concepts/workloads/controllers/job/)
 - commands / args / shells https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
 - restartPolicy
+
+### 2020-02-19 Day 85
+
+- bash functions
+- xserver
+
+### 2020-02-20 Day 86
+
+- cronjobs, syslog, pgp
