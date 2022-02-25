@@ -38,12 +38,12 @@ What to cover (in order)
            - [ ] https://docs.docker.com/engine/install/linux-postinstall/
          - Build images
            - [x] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=0
-           - [ ] http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
-           - [ ] http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/
+           - [x] http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
+           - [x] http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/
            - [ ] https://www.freecodecamp.org/news/the-docker-handbook/
            - [ ] https://docs.docker.com/language/golang/build-images/ 
            - [ ] https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
-           - [ ] https://docs.docker.com/engine/reference/commandline/push/ 
+           - [x] https://docs.docker.com/engine/reference/commandline/push/ 
            - [ ] https://docs.docker.com/buildx/working-with-buildx/
            - [ ] https://iximiuz.com/en/posts/you-need-containers-to-build-an-image/
            - [ ] https://medium.com/@olivier.gaumond/why-am-i-able-to-bind-a-privileged-port-in-my-container-without-the-net-bind-service-capability-60972a4d5496
@@ -590,3 +590,16 @@ Reprovision
 
 - docker image sizing http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/
 - recap of Linux ops tooling https://abarrak.gitbook.io/linux-sysops-handbook/#10---storage
+
+### 2020-02-25 Day 88
+
+- docker images part 2 http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
+  - https://github.com/jpetazzo/minimage/blob/master/whatsmyip.go
+  - alpine image 
+  - static linked binaries 
+  - images for go/c apps
+- alpine internals talk https://www.youtube.com/watch?v=sIG2P9k6EjA&ab_channel=Docker
+- docker images part 3 http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/ (distroless / CA certs / timezones)
+- deploy fast go-app on k8s talk https://www.youtube.com/watch?v=E8JgnAYWSvA&ab_channel=GoRemoteFest
+- docker push https://docs.docker.com/engine/reference/commandline/push/
+- cgroups and namespaces talk https://www.youtube.com/watch?v=8fi7uSYlOdc&ab_channel=GOTOConferences
