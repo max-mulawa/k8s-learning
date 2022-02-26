@@ -27,31 +27,27 @@ What to cover (in order)
          - [x] Check fg command - https://www.youtube.com/watch?v=TJzltwv7jJs&ab_channel=EngineerMan (video tutorial)
          - [x] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
          - [x] https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
-     - [ ] Commad line execution
+     - [x] Commad line execution
          - [x] https://kubernetes.io/docs/concepts/cluster-administration/logging/
          - [x] https://kubernetes.io/docs/concepts/workloads/controllers/job/ (multiple commands chained)
          - [x] https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
          - [x] work-out /bin/sh vs /bin/bash vs busybox vs nginx images and availability
-     - [ ] Recap Docker client commands Push, Build , Tag, Image, run , run in background
+     - [x] Recap Docker client commands Push, Build , Tag, Image, run , run in background
         - Docker installation
-           - [ ] https://docs.docker.com/engine/install/ubuntu/
-           - [ ] https://docs.docker.com/engine/install/linux-postinstall/
+           - [x] https://docs.docker.com/engine/install/ubuntu/
+           - [x] https://docs.docker.com/engine/install/linux-postinstall/
          - Build images
            - [x] http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/?s=0
            - [x] http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
            - [x] http://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/
-           - [ ] https://www.freecodecamp.org/news/the-docker-handbook/
-           - [ ] https://docs.docker.com/language/golang/build-images/ 
-           - [ ] https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+           - [x] https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
            - [x] https://docs.docker.com/engine/reference/commandline/push/ 
-           - [ ] https://docs.docker.com/buildx/working-with-buildx/
-           - [ ] https://iximiuz.com/en/posts/you-need-containers-to-build-an-image/
-           - [ ] https://medium.com/@olivier.gaumond/why-am-i-able-to-bind-a-privileged-port-in-my-container-without-the-net-bind-service-capability-60972a4d5496
-     - [ ] Recap Podman client commands https://docs.podman.io/en/latest/markdown/podman-build.1.html  
-       - [ ] https://github.com/containers/buildah/tree/main/docs/tutorials
+           - [x] https://medium.com/@olivier.gaumond/why-am-i-able-to-bind-a-privileged-port-in-my-container-without-the-net-bind-service-capability-60972a4d5496
+     - [x] Recap Podman client commands https://www.baeldung.com/ops/podman-intro  
      - [ ] Recap Helm client commands  
          - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
          - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands
+     - [ ] Advanced Deployments 
          - [ ] Blue/Green deployments - https://kubernetes.io/blog/2018/04/30/zero-downtime-deployment-kubernetes-jenkins/
          - [ ] Canary deployment - https://kubernetes.io/blog/2020/04/two-phased-canary-rollout-with-gloo/ 
          - [ ] Rolling update - https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
@@ -545,53 +541,53 @@ Reprovision
 - getting to know curl and wget
 
 
-### 2020-02-02 Day 79
+### 2020-02-02 Day 70
 
 - fg / bg / kill tools
 - kubectl recap 
 - vim configuration
 - mizu tool testing
 
-### 2020-02-09 Day 80
+### 2020-02-09 Day 71
 
 - sed/grep tools
 
-### 2020-02-10 Day 81
+### 2020-02-10 Day 72
 
 - Arch linux installation (grub/fdisk/pacman)
 
-### 2020-02-11 Day 82
+### 2020-02-11 Day 73
 
 - Arch linux installation (networking configuration/xserver/gnome)
 - systemd (https://www.linuxjournal.com/content/systemd-service-strengthening)
 - kubectl (https://www.atomiccommits.io/everything-useful-i-know-about-kubectl)
 
-### 2020-02-13 Day 83
+### 2020-02-13 Day 74
 
 - k8s logging (https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 - k8s jobs / cri-o images (https://computingforgeeks.com/install-cri-o-container-runtime-on-debian-linux/)
 
-### 2020-02-14 Day 84
+### 2020-02-14 Day 75
 
 - jobs parallel / indexed  (https://kubernetes.io/docs/concepts/workloads/controllers/job/)
 - commands / args / shells https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
 - restartPolicy
 
-### 2020-02-19 Day 85
+### 2020-02-19 Day 76
 
 - bash functions
 - xserver
 
-### 2020-02-20 Day 86
+### 2020-02-20 Day 77
 
 - cronjobs, syslog, pgp
 
-### 2020-02-23 Day 87
+### 2020-02-23 Day 78
 
 - docker image sizing http://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/
 - recap of Linux ops tooling https://abarrak.gitbook.io/linux-sysops-handbook/#10---storage
 
-### 2020-02-25 Day 88
+### 2020-02-25 Day 79
 
 - docker images part 2 http://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
   - https://github.com/jpetazzo/minimage/blob/master/whatsmyip.go
@@ -603,3 +599,11 @@ Reprovision
 - deploy fast go-app on k8s talk https://www.youtube.com/watch?v=E8JgnAYWSvA&ab_channel=GoRemoteFest
 - docker push https://docs.docker.com/engine/reference/commandline/push/
 - cgroups and namespaces talk https://www.youtube.com/watch?v=8fi7uSYlOdc&ab_channel=GOTOConferences
+
+### 2020-02-26 Day 80
+- Docker best partices https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+- linux capabilities https://medium.com/@olivier.gaumond/why-am-i-able-to-bind-a-privileged-port-in-my-container-without-the-net-bind-service-capability-60972a4d5496
+- Podman basics 
+  - https://www.baeldung.com/ops/podman-intro
+  - https://github.com/containers/podman/blob/main/docs/tutorials/podman_tutorial.md
+- Docker non-root user deamon interaction - https://docs.docker.com/engine/install/linux-postinstall/
