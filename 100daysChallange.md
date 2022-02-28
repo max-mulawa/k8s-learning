@@ -607,3 +607,7 @@ Reprovision
   - https://www.baeldung.com/ops/podman-intro
   - https://github.com/containers/podman/blob/main/docs/tutorials/podman_tutorial.md
 - Docker non-root user deamon interaction - https://docs.docker.com/engine/install/linux-postinstall/
+
+### 2020-02-28 Day 81
+
+- CKAD Challanges https://faun.pub/kubernetes-ckad-weekly-challenge-5-secrets-und-configmaps-550afde679fe
