@@ -611,3 +611,40 @@ Reprovision
 ### 2020-02-28 Day 81
 
 - CKAD Challanges https://faun.pub/kubernetes-ckad-weekly-challenge-5-secrets-und-configmaps-550afde679fe
+
+### 2020-03-05 Day 82
+
+- wireshark hacking
+- route/mtr
+- IP / TCP / ICMP protocols shallow dive
+
+### 2020-03-06 Day 83
+
+- iptables / firewalld
+- hardening Linux server
+
+### 2020-03-11 Day 84
+
+- golang 101 Go Programming Book
+
+### 2020-03-12 Day 85
+
+- k8s ui dashboard setup 
+  - https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+  - https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md 
+- golang loops / structs / file io / maps
+  - https://stackoverflow.com/questions/2050391/how-to-check-if-a-map-contains-a-key-in-go
+  - https://www.golangprograms.com/go-language/arrays.html
+  - https://stackoverflow.com/questions/9251234/how-to-check-the-uniqueness-inside-a-for-loop
+  - https://thenewstack.io/understanding-golang-type-system/
+- golang rand 
+  - https://pkg.go.dev/math/rand
+- Go Programming Book - page 34
+
+### 2020-03-13 Day 86
+
+- files writing https://gobyexample.com/writing-files
+- md5  -https://pkg.go.dev/crypto/md5 
+- https://yourbasic.org/golang/build-append-concatenate-strings-efficiently/
+- basic http calls and server
+- Go Programming Book - page 46
