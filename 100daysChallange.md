@@ -648,3 +648,11 @@ Reprovision
 - https://yourbasic.org/golang/build-append-concatenate-strings-efficiently/
 - basic http calls and server
 - Go Programming Book - page 46
+
+### 2020-03-14 Day 87
+
+- Local package development https://levelup.gitconnected.com/import-and-use-local-packages-in-your-go-application-885c35e5624
+- Running benchmarks https://dzone.com/articles/optimizing-string-comparisons-in-go 
+- Bit calculation https://www.geeksforgeeks.org/count-set-bits-in-an-integer/ 
+- Go Programming Book - page 70
+
