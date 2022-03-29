@@ -656,3 +656,39 @@ Reprovision
 - Bit calculation https://www.geeksforgeeks.org/count-set-bits-in-an-integer/ 
 - Go Programming Book - page 70
 
+### 2020-03-15 Day 88
+
+- go sucks presentation (PL) https://www.youtube.com/watch?v=_Id9bFkjaDc&ab_channel=GogoApps 
+
+### 2020-03-19 Day 89
+
+- basic go types
+- Go Programming Book - page 86
+
+### 2020-03-20 Day 90
+
+- unicode, utf-8, strings 
+- Go Programming Book - page 91
+
+### 2020-03-25 Day 91
+
+- system design (scaling web application, sizing estimation, rate limiter)
+- - System Design Interview book
+
+### 2020-03-26 Day 92
+
+- system design (consistent hashing, key-value store, unique id generator, url shortener)
+- System Design Interview book
+
+### 2020-03-28 Day 93
+
+- install dotnet 6.0 on 21.10 (from 21.04 repos) https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#apt-troubleshooting
+- setup console and xunit apps 
+  - https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-6-0
+  - https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-6-0
+  - https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
+
+### 2020-03-29 Day 94
+
+- system design (web crawler, notification system)
+- System Design Interview book - page 166
