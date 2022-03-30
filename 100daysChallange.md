@@ -651,3 +651,8 @@ Reprovision
 
 - system design (web crawler, notification system)
 - System Design Interview book - page 166
+
+### 2020-03-30 Day 95
+
+- go conts, string operations
+- Go Programming Book - page 100
