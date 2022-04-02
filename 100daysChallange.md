@@ -656,3 +656,22 @@ Reprovision
 
 - go conts, string operations
 - Go Programming Book - page 100
+
+### 2020-03-31 Day 96
+
+- C# VS code project setup
+  - https://docs.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio-code?pivots=dotnet-6-0
+  - https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0
+  - https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli
+  - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+- new serialization libraries
+- httpclient
+  - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-6.0
+  - https://github.com/dotnet/extensions/tree/v3.1.8/src/HttpClientFactory/Http/src
+  - https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-webapiclient
+
+### 2020-04-01 Day 97
+
+- .net core synchronization primitives
+- async programming
+- xunit vs mstest 
