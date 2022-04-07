@@ -675,3 +675,11 @@ Reprovision
 - .net core synchronization primitives
 - async programming
 - xunit vs mstest 
+
+### 2020-04-02 Day 98
+
+- go json marshalling https://blog.logrocket.com/how-to-make-http-post-request-with-json-body-in-go/
+
+### 2020-04-07 Day 99
+
+- go util functions https://blog.canopas.com/golang-utility-functions-you-always-missed-ebeabae6b276
