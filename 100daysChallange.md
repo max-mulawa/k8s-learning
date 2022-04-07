@@ -683,3 +683,6 @@ Reprovision
 ### 2020-04-07 Day 99
 
 - go util functions https://blog.canopas.com/golang-utility-functions-you-always-missed-ebeabae6b276
+- bit wise operators https://yourbasic.org/golang/bitwise-operator-cheat-sheet/
+- converting array to a slice https://stackoverflow.com/questions/28886616/convert-array-to-slice-in-go
+- Go Programming Book - page 106
