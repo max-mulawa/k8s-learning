@@ -686,3 +686,6 @@ Reprovision
 - bit wise operators https://yourbasic.org/golang/bitwise-operator-cheat-sheet/
 - converting array to a slice https://stackoverflow.com/questions/28886616/convert-array-to-slice-in-go
 - Go Programming Book - page 106
+
+### 2020-04-08 Day 100
+- go 1.14 GC preemptive strategies - https://www.youtube.com/watch?v=1I1WmeSjRSw&ab_channel=GopherAcademy
