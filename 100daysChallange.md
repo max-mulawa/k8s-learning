@@ -664,3 +664,4 @@ Reprovision
 ### 2020-04-08 Day 100
 - go 1.14 GC preemptive strategies - https://www.youtube.com/watch?v=1I1WmeSjRSw&ab_channel=GopherAcademy
 - memory opt (maps replaced with array, shrink slices, map files to memory etc) https://www.youtube.com/watch?v=9cpeYsFcrMc&ab_channel=GopherAcademy
+- https://exercism.org/tracks/go/exercises/isogram/
