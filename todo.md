@@ -1,0 +1,25 @@
+What to cover (in order) 
+- [x] Exam KCAD – already purchased 
+  - [x] https://github.com/dgkanatsios/CKAD-exercises  
+  - [ ] https://killer.sh/dashboard
+     - [x] session - take 1
+     - [ ] session - take 2
+  - [ ] Fixing slack After killer.sh  
+     - [ ] Recap Helm client commands  
+         - [ ] https://banzaicloud.com/blog/helm3-the-good-the-bad-and-the-ugly/
+         - [ ] helm list, repo, search repo, ugprade, uninstall, install, rollback, show, set variables commands
+     - [ ] Advanced Deployments 
+         - [ ] Blue/Green deployments - https://kubernetes.io/blog/2018/04/30/zero-downtime-deployment-kubernetes-jenkins/
+         - [ ] Canary deployment - https://kubernetes.io/blog/2020/04/two-phased-canary-rollout-with-gloo/ 
+         - [ ] Rolling update - https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
+     - [ ] Recap Network policies
+         - [ ] https://github.com/ahmetb/kubernetes-network-policy-recipes
+         - [ ] https://editor.cilium.io
+         - [ ] Ingress controller - https://kubernetes.io/docs/concepts/services-networking/ingress/ 
+     - [ ] CKAD Challanges - https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
+     - [ ] Review pod securityContext
+     - [ ] Review storageClass, PV (hostPath), PVC
+     - [ ] RBAC https://kubernetes.io/docs/reference/access-authn-authz/rbac/ 
+     - [ ] https://kubernetes.courselabs.co/  
+     - [ ] CKAD Guide (PDF in mydrive)
+  - [ ] https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-application-developer-ckad/exam/exam
